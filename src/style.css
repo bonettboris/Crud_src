@@ -1,0 +1,41 @@
+#contenidoInfo{
+    margin-left: 10px;
+}
+
+#contenidoInfo{
+    list-style: none;
+}
+
+#contenidoInfo li{
+    padding-bottom: 5px;
+}
+
+.remove_item{
+    color: red;
+    padding: 10px 5px 10px 10px;
+}
+
+.clickeable{
+    cursor: pointer;
+}
+
+.update_icon{
+    color: green;
+    padding: 10px 10px 10px 0;
+}
+
+.show {
+    display: block;
+}
+
+.hide{
+    display: none;
+}
+
+.div_one {
+    margin-bottom: 3px;
+}
+
+.boton {
+    margin-top: 5px;
+}
